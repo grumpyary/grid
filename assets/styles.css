@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 6.625rem;
+    background: #d9d9d9;
+}
+
+main {
+    
+    max-width: 74.3rem;
+    width: 100%;
+    margin: auto;
+
+    margin-top: 3.25rem;
+}
+
+#section_one {
+    background: #d9d9d9;
+    width: 100%;
+    height: 13.7rem;
+}
+
+.section_two {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 3.5rem;
+}
+
+.content {
+    width: 22.2rem;
+    height: 12.4rem;
+    background: #d9d9d9;
+}
